@@ -1,4 +1,4 @@
-# MERN CRUD
+# Mini WhatsApp Marketing Campaign Tool
 
 Mini WhatsApp Marketing Campaign Tool is a full-stack web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, following the MVC (Model-View-Controller) architectural pattern. .
 

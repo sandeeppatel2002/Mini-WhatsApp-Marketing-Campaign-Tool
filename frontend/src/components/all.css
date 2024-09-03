@@ -1,0 +1,84 @@
+/* Container */
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Card */
+.card {
+  border-radius: 10px;
+  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Card Title */
+.card-title {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
+/* Form Labels */
+.form-label {
+  font-weight: bold;
+  color: #555;
+}
+
+/* Form Inputs */
+.form-control {
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  font-size: 1rem;
+  transition: border-color 0.3s;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* File Input */
+.form-control[type="file"] {
+  padding: 3px;
+}
+
+/* Small Text */
+.form-text {
+  font-size: 0.875rem;
+  color: #777;
+}
+
+/* Alerts */
+.alert {
+  border-radius: 5px;
+  font-size: 0.875rem;
+}
+
+/* Button */
+.btn {
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  font-weight: bold;
+  color: #fff;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
+
+/* Margin Bottom */
+.mb-3,
+.mb-4 {
+  margin-bottom: 1.5rem;
+}
+
+/* Text Center */
+.text-center {
+  text-align: center;
+}
